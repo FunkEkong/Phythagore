@@ -1,7 +1,7 @@
 a=float(input("a ="))
 b=float(input("b ="))
 c=float(input("c ="))
-il a==(b**2+c**2):
+if a==(b**2+c**2):
   print("true")
 else:
   print("false")
